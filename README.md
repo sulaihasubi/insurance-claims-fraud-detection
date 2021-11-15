@@ -50,4 +50,6 @@ The finding from this EDA, some string columns have many distinct values (900+).
 * insured location (1000 distinct)
 * incident date (60 distinct. Excluding, but possible to narrow down to year/month to test model accuracy)
 
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/eda-card.gif)
+
+Like most of fraudulent dataset, the label of distribution is skewed
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/Count%20by%20fraud_reported.png)
