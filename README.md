@@ -57,3 +57,7 @@ Like most of fraudulent dataset, the label of distribution is skewed.
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/Count%20by%20fraud_reported.png)
 
 Data Processing take place to clean up the data a little and prepare it for our machine learning model. Removed the columns that identified earlier that have too many distinct categories and cannot be converted to numeric.
+
+## 🤖 Create Machine Learning Model (Auto ML)
+
+
