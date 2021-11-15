@@ -42,3 +42,11 @@ In DSS, a Card is used to perform a specific Exploratory Data Analysis (EDA) tas
 <br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/eda-card.gif)
 
+The finding from this EDA, some string columns have many distinct values (900+). These columns should be removed from our dataset in the Data Processing step to improve model accuracy.
+
+* policy number (1000 distinct)
+* policy bind date (951 distinct. Possible to narrow down to year/month to test model accuracy)
+* insured zip (995 distinct)
+* insured location (1000 distinct)
+* incident date (60 distinct. Excluding, but possible to narrow down to year/month to test model accuracy)
+
