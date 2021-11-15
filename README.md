@@ -28,3 +28,8 @@ The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
 2. Preparing Data with Recipes (Visual or Code)
 3. Create Machine Learning Model
 4. Zooming into the Prediction Data
+
+
+## 🖥️ The Flow
+In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
+![Alt Text](https://github.com/sulaihasubi/Person-Detection-and-Counting/blob/main/video-results/enter-non-productive.gif)
