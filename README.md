@@ -10,4 +10,12 @@
 4. Technical Solution: Dataiku can be used as a single platform to gather data from API endpoints or batch dumps into S3 for additional processing. For efficient processing, ETL the CSV datasets into efficient Parquet formats.
 
 ## 📖 Problem Statements
+This predictive model predicts the dataset from auto insurance either the claims is fraudulent or not. This will be a binary classification task and I will demonstrate few auto ML model using Dataiku DSS Platform like Logistic Regression, and Random Forest.
 
+Based on the prediction data, the model are able to estimate the total predicted fraudulent claims (amounts), and break down the features of this fraudulent by looking fraud count by insured hobbies etc.
+
+The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
+1. Creating Project & Import the Dataset
+2. Preparing Data with Recipes (Visual or Code)
+3. Create Machine Learning Model
+4. Zooming into the Prediction Data
