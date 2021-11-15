@@ -1,6 +1,7 @@
 # Insurance Claim - Fraud Detection with Dataiku DSS
 ![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)
 ![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 ## Introduction
 1. Business Case: In the insurance industry, fraud is a major issue. It's tough to determine whether or not a claim is fraudulent. In this use case, I will use Dataiku DSS Platform to help the auto insurance industry to overcome this issue. 
