@@ -51,5 +51,7 @@ The finding from this EDA, some string columns have many distinct values (900+).
 * incident date (60 distinct. Excluding, but possible to narrow down to year/month to test model accuracy)
 
 
-Like most of fraudulent dataset, the label of distribution is skewed
+Like most of fraudulent dataset, the label of distribution is skewed.
+<br/>
+<br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/Count%20by%20fraud_reported.png)
