@@ -1,10 +1,12 @@
 # Insurance Claim - Fraud Detection with Dataiku DSS
-![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)
-![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+[![Dataiku](https://img.shields.io/static/v1?style=for-the-badge&message=Dataiku&color=2AB1AC&logo=Dataiku&logoColor=FFFFFF&label=)](https://www.dataiku.com/)
+[![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
 
 ## Dataiku Project
-Since Github have limitation of size to support the files, you can explore about this project in Dataiku DSS by downloading the file with the link I provided as below:
+Since Github have limitation of size to support the files, you can explore about this project in Dataiku DSS by downloading the file with the link provided as below:
+<br/>
+<br/>
 [![Google Drive](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label=)](https://drive.google.com/file/d/1OjtpVegdbtQrV0KKWl9_DAS8M7Uys3Fx/view?usp=sharing)
 
 
