@@ -62,3 +62,4 @@ Data Processing take place to clean up the data a little and prepare it for our 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/auto-ml.png)
 
 
+
