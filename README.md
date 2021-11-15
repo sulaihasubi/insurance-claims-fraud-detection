@@ -32,4 +32,5 @@ The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
 
 ## 🖥️ The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
-![Alt Text](https://github.com/sulaihasubi/Person-Detection-and-Counting/blob/main/video-results/enter-non-productive.gif)
+<br/>
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/FLOW.png)
