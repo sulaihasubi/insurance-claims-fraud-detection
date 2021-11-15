@@ -37,3 +37,4 @@ In DSS, the Flow is the visual representation of how data, recipes, and models w
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/FLOW.png)
 
 ## 📊 Statistic Card 
+In DSS, a Card is used to perform a specific Exploratory Data Analysis (EDA) task. 
