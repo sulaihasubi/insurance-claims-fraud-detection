@@ -163,3 +163,8 @@ The Confusion matrix shows that the model has a **6% false-positive rate**, and 
 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/cm-1.png)
+
+2. Decision Chart
+-----------------
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dc-1.png)
+
