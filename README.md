@@ -85,6 +85,8 @@ Let’s take a closer look at the results of the Random Forest model from these 
 Dataiku have the ability to display the decision trees that underlying the model.
 * The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree
 * The "probability" parameter reflects what would be expected if the node were a leaf
+
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/decision-trees.png)
 
 
