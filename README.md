@@ -123,3 +123,4 @@ The plot also displays the distribution of the feature, so that you can determin
 
 4. Subpopulation Analysis
 -------------------------
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/subana.png)
