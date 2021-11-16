@@ -143,5 +143,10 @@ Individual explanations is the interesting part to analysed if you want to dig d
 
 6. Interactive Scoring
 ----------------------
+The interactive scoring simulator allows any AI builder or consumer to run "what-if" analyses like qualitative sensibility analyses to gain a better understanding of the impact changing a given feature value has on the prediction by displaying the resulting prediction and individual prediction explanations in real time.
+
+In a fraud detection use case, this functionality allow to examine how altering the amount of a transaction changes the anticipated likelihood that it is a fraud.
+
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/is-1.png)
 
