@@ -76,14 +76,20 @@ Let’s take a closer look at the results of the Random Forest model from these 
 -----------------
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/decision-trees.png)
 Dataiku have the ability to display the decision trees that underlying the model.
-* The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree.
-
-
+* The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree
+* The "probability" parameter reflects what would be expected if the node were a leaf
 
 2. Variable Importance
+----------------------
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
 The Variables importance tab in the Interpretation section reveals the global feature importance of the model. The parameters incident_severity is Major Damage, insured_hobbies is chess, and insured_hobbies is cross-fit shows the highest correlation with Fraudulent in Insurance Claims.
 
+3. Partial Dependence
+---------------------
+Partial dependency plots are a type of post-hoc analysis that may be performed after the model has been established.
 
+A partial dependence plot shows the dependence of the predicted response on a single feature. The x axis displays the value of the selected feature, while the y axis displays the partial dependence.
+
+The value of the partial dependence is by how much the log-odds are higher or lower than those of the average probability.
 
 
