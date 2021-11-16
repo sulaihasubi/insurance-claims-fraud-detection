@@ -121,4 +121,5 @@ Note that for classifications, the predictions used to plot partial dependence a
 
 The plot also displays the distribution of the feature, so that you can determine whether there is sufficient data to interpret the relationship between the feature and target.
 
-
+4. Subpopulation Analysis
+-------------------------
