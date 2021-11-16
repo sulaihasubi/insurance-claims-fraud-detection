@@ -73,7 +73,11 @@ Let’s take a closer look at the results of the Random Forest model from these 
 
 ### Model Interpretation
 1. Variable Importance
+<br/>
+<br/>
 The Variables importance tab in the Interpretation section reveals the global feature importance of our model. The parameters Patient Number, Discharge Disposition, and Age show the highest correlation with hospital readmission rates.
+<br/>
+<br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
 
 
