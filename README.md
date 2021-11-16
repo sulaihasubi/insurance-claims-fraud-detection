@@ -133,5 +133,7 @@ Based on these subpopulation analysis, we can analyze the model performance base
 5. Individual Explanations
 --------------------------
 
-Dataiku DSS allows to generate individual prediction explanations.
+Dataiku DSS allows to generate individual prediction explanations. 
+
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/ie-1.png)
 
