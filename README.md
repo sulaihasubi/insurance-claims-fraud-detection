@@ -29,6 +29,9 @@ The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
 3. Create Machine Learning Model
 4. Zooming into the Prediction Data
 
+## 📊 About the Dataset
+To download the dataset, you may get it from![here](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/datasets/insurance_claims.csv) 
+
 
 ## 🖥 The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
@@ -97,6 +100,11 @@ A partial dependence plot shows the dependence of the predicted response on a si
 The value of the partial dependence is by how much the log-odds are higher or lower than those of the average probability.
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb1.png)
+
+
+In the figure below, the insurer at the age of 23-24 are highly tend to do  
+
+The relationship appears to be roughly parabolic with a minimum somewhere between ages 25 and 30. After age 40, the relationship is slowly increasing, until a precipitous dropoff in late age.
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb2.png)
 
 
