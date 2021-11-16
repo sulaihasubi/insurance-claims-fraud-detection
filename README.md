@@ -123,7 +123,9 @@ The plot also displays the distribution of the feature, so that you can determin
 
 4. Subpopulation Analysis
 -------------------------
-Subpopulation analysis allows us to assess the behavior of the model across different subgroups
+Subpopulation analysis allows us to assess the behavior of the model across different subgroups.
+
+Based on these subpopulation analysis, we can analyze the model performance based on incident_severity. The results show similar model behavior across incident severity, with a slight decrease in performance for total loss & major damage.
 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/subana.png)
