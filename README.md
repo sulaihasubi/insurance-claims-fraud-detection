@@ -82,8 +82,10 @@ Dataiku have the ability to display the decision trees that underlying the model
 
 2. Variable Importance
 ----------------------
-The Variables importance tab in the Interpretation section reveals the global feature importance of the model. 
+The Variables importance tab in the Interpretation section reveals the global feature importance of the model.
+
 The parameters incident_severity is Major Damage, insured_hobbies is chess, and insured_hobbies is cross-fit shows the highest correlation with Fraudulent in Insurance Claims.
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
 
 3. Partial Dependence
