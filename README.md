@@ -32,7 +32,7 @@ The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
 ## 📊 About the Dataset
 To download the dataset, you may get it from [here](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/datasets/insurance_claims.csv).
 
-This dataset collected from Auto Insurance in USA States. Retrieved from [here]( https://github.com/mwitiderrick/insurancedata/blob/master/insurance_claims.csv)
+This dataset collected from Auto Insurance in USA States, contains 1000 rows with 34 coloumns. Retrieved from [here]( https://github.com/mwitiderrick/insurancedata/blob/master/insurance_claims.csv)
 <br/>
 <br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
@@ -107,9 +107,7 @@ The value of the partial dependence is by how much the log-odds are higher or lo
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb1.png)
 
 
-In the figure below, the insurer at the age of 23-24 are highly tend to do  
-
-The relationship appears to be roughly parabolic with a minimum somewhere between ages 25 and 30. After age 40, the relationship is slowly increasing, until a precipitous dropoff in late age.
+In the figure below, the relationship of the insurer age appears to be roughly parabolic with a minimum somewhere between ages 23 to 24 are highly tend to commit fraudulents. After age 40, the relationship is slowly increasing, until a precipitous dropoff in late age.
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb2.png)
 
 
