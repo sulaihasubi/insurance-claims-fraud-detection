@@ -152,3 +152,7 @@ In a fraud detection use case, this functionality allow to examine how altering 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/is-1.png)
 
+### Model Performance
+
+1. Confusion Matrix
+------------------- 
