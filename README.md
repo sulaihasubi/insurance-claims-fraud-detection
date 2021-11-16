@@ -157,5 +157,9 @@ In a fraud detection use case, this functionality allow to examine how altering 
 1. Confusion Matrix
 -------------------
 
+The Confusion matrix compares the actual values of the target variable with the predicted values
+
+The Confusion matrix shows that the model has a 6% false-positive rate, and a recall (true-positive rate) of 62%.
+
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/cm-1.png)
