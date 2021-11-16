@@ -112,12 +112,13 @@ The value of the partial dependence is by how much the log-odds are higher or lo
 
 In the figure below, the relationship of the insurer age appears to be roughly parabolic with a minimum somewhere between ages 23 to 24 are highly tend to commit fraudulents. After the age of 30, the relationship is slowly decresing, until a precipitous dropoff in late age of 55.
 
-Partial dependence plot of the Age feature reveals the likelihood of fraudulent claims increases incrementally with age of 60, which makes sense for these age to do fraudulents. 
+Partial dependence plot of the Age feature reveals the likelihood of fraudulent claims increases incrementally with age of 60, which makes sense for these age to do fraudulents.
+
+
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb2.png)
 
 Note that for classifications, the predictions used to plot partial dependence are not the predicted probabilities of the class, but their log-odds defined as log(p / (1 - p)).
 
 The plot also displays the distribution of the feature, so that you can determine whether there is sufficient data to interpret the relationship between the feature and target.
-
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb2.png)
 
 
