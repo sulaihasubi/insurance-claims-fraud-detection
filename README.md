@@ -74,15 +74,16 @@ Let’s take a closer look at the results of the Random Forest model from these 
 ### Model Interpretation
 1. Decision Trees
 -----------------
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/decision-trees.png)
 Dataiku have the ability to display the decision trees that underlying the model.
 * The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree
 * The "probability" parameter reflects what would be expected if the node were a leaf
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/decision-trees.png)
+
 
 2. Variable Importance
 ----------------------
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
 The Variables importance tab in the Interpretation section reveals the global feature importance of the model. The parameters incident_severity is Major Damage, insured_hobbies is chess, and insured_hobbies is cross-fit shows the highest correlation with Fraudulent in Insurance Claims.
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
 
 3. Partial Dependence
 ---------------------
