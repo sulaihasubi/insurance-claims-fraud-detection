@@ -73,6 +73,7 @@ Let’s take a closer look at the results of the Random Forest model from these 
 
 ### Model Interpretation
 1. Variable Importance
+fdhjgjfdg
 <br/>
 <br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
