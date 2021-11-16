@@ -74,6 +74,7 @@ Let’s take a closer look at the results of the Random Forest model from these 
 ### Model Interpretation
 1. Variable Importance
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/v-i.png)
+The Variables importance tab in the Interpretation section reveals the global feature importance of the model. The parameters incident_severity is Major Damage, insured_hobbies is chess, and insured_hobbies is cross-fit shows the highest correlation with Fraudulent in Insurance Claims.
 
 
 
