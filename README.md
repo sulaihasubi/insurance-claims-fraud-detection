@@ -65,9 +65,8 @@ Image below shown the result of Machine Learning Models for Random Forest and Lo
 <br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/auto-ml.png)
  
-
-
 ### Model Summary
+Let’s take a closer look at the results of the Random Forest model from these result. The Report page's Summary panel shows generic model information such as the algorithm and training date. In addition, the report page includes sections on model interpretation, performance, and extensive model information.
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/summary-ml.png)
 
 
