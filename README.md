@@ -104,7 +104,7 @@ A partial dependence plot shows the dependence of the predicted response on a si
 
 The value of the partial dependence is by how much the log-odds are higher or lower than those of the average probability.
 
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pbgif.gif)
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pdgif.gif)
 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb1.png)
