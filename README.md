@@ -61,11 +61,13 @@ Data Processing take place to clean up the data a little and prepare it for our 
 ## 🤖 Create Machine Learning Model (Auto ML)
 ### Model Overview
 Image below shown the result of Machine Learning Models for Random Forest and Logistic Regression. Both Models shown the ROC AUC scores, where Random Forest shows the best scoring compared to Logistic Regression. So let's zoom into these result.
+<br/>
+<br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/auto-ml.png)
  
 
 
-1. Summary 
+### Model Summary
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/summary-ml.png)
 
 
