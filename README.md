@@ -123,4 +123,7 @@ The plot also displays the distribution of the feature, so that you can determin
 
 4. Subpopulation Analysis
 -------------------------
+Subpopulation analysis allows us to assess the behavior of the model across different subgroups
+
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/subana.png)
