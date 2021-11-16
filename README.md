@@ -72,10 +72,11 @@ Let’s take a closer look at the results of the Random Forest model from these 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/summary-ml.png)
 
 ### Model Interpretation
-1. Decision Tress
+1. Decision Trees
+-----------------
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/decision-trees.png)
 Dataiku have the ability to display the decision trees that underlying the model.
-  * The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree.
+* The "proportions of target classes" describe the raw distribution of classes at each node of the decision tree.
 
 
 
