@@ -129,3 +129,9 @@ Based on these subpopulation analysis, we can analyze the model performance base
 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/subana.png)
+
+5. Individual Explanations
+--------------------------
+
+Dataiku DSS allows to generate individual prediction explanations.
+
