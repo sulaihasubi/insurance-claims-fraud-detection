@@ -111,6 +111,8 @@ The value of the partial dependence is by how much the log-odds are higher or lo
 
 
 In the figure below, the relationship of the insurer age appears to be roughly parabolic with a minimum somewhere between ages 23 to 24 are highly tend to commit fraudulents. After age 40, the relationship is slowly increasing, until a precipitous dropoff in late age.
+
+
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb2.png)
 
 
