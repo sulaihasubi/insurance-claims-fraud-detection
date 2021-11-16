@@ -59,10 +59,11 @@ Like most of fraudulent dataset, the label of distribution is skewed.
 Data Processing take place to clean up the data a little and prepare it for our machine learning model. Removed the columns that identified earlier that have too many distinct categories and cannot be converted to numeric.
 
 ## 🤖 Create Machine Learning Model (Auto ML)
-Based on the 
+### Model Overview
+Image below shown the result of Machine Learning Models for Random Forest and Logistic Regression. Both Models shown the ROC AUC scores, where Random Forest shows the best scoring compared to Logistic Regression. So let's zoom into these result.
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/auto-ml.png)
+ 
 
-### Let's Zoom In the Model Results
 
 1. Summary 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/summary-ml.png)
