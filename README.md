@@ -135,7 +135,9 @@ Based on these subpopulation analysis, we can analyze the model performance base
 
 Dataiku DSS allows to generate individual prediction explanations. The explanations picked from 3 most influential features for extreme probabilities. In this case, the most top 3 of most influential features are insured_hobbies, incident_severity and the vehicle_claim.
 
-Based on the images below, the high probabilities of doing fraudulent is on the age of 39 where their hobbies is playing chess, the incident severity is minor damage and the vehicle claims is 61740.0. Apart from that, we can zoom in more about others features explanations for further details. 
+Based on the images below, the high probabilities of doing fraudulent is on the age of 39 which the probability is 0.950, where their hobbies is playing chess, the incident severity is minor damage and the vehicle claims is 61740.0. Apart from that, we can zoom in more about others features explanations for further details. 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/ie-1.png)
+
+Individual explanations is the interesting part to analysed if you want to dig down of the probabilities of the individual result. You can get clear ideas how these individual explanations could predict character traits of a person who is highly tendency to do fraudulents.
 
