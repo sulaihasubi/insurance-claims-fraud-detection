@@ -170,6 +170,6 @@ The Decision chart tab shows a graphical depiction of the model's performance da
 
 The Decision chart also shows the location of the optimal cut-off (based on the F1 score), which is 0.38 for our Random Forest model.
 
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dc-1.png)
 
 
