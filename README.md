@@ -30,8 +30,9 @@ The steps covered to illustrate how ML Model Pipeline with Dataiku as follow:
 4. Zooming into the Prediction Data
 
 ## 📊 About the Dataset
-To download the dataset, you may get it from![here](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/datasets/insurance_claims.csv) 
+To download the dataset, you may get it from [here](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/datasets/insurance_claims.csv).
 
+This dataset collected from Auto Insurance in USA States. 
 
 ## 🖥 The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
