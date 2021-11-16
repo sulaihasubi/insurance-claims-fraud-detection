@@ -141,3 +141,7 @@ Based on the images below, the high probabilities of doing fraudulent is on the 
 
 Individual explanations is the interesting part to analysed if you want to dig down of the probabilities of the individual result. You can get clear ideas how these individual explanations could predict characteristics or traits of a person who is highly tend to do fraudulents.
 
+6. Interactive Scoring
+----------------------
+
+
