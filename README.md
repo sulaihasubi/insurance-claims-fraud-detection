@@ -98,13 +98,13 @@ The parameters incident_severity is Major Damage, insured_hobbies is chess, and 
 
 3. Partial Dependence
 ---------------------
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pdgif.gif)
+
 Partial dependency plots are a type of post-hoc analysis that may be performed after the model has been established.
 
 A partial dependence plot shows the dependence of the predicted response on a single feature. The x axis displays the value of the selected feature, while the y axis displays the partial dependence.
 
 The value of the partial dependence is by how much the log-odds are higher or lower than those of the average probability.
-
-![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pdgif.gif)
 
 
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/pb1.png)
