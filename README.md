@@ -143,5 +143,5 @@ Individual explanations is the interesting part to analysed if you want to dig d
 
 6. Interactive Scoring
 ----------------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/is-1.png)
 
