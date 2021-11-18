@@ -190,3 +190,12 @@ The Decision chart also shows the location of the optimal cut-off (based on the 
 7. Metrics & Assertations
 -------------------------
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/metric.png)
+
+### Model Information
+1. Algorithm
+-------------
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/algorithm.png)
+
+2. Hyperparameter Optimization
+------------------------------
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/hyperparameter.png)
