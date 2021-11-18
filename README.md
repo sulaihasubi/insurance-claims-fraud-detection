@@ -173,20 +173,20 @@ The Decision chart also shows the location of the optimal cut-off (based on the 
 
 3. Lift Chart
 -------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/lift-c.png)
 
 4. Callibration Curve
 ---------------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/callibration-c.png)
 
 5. ROC Curve
 ------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/roc-c.png)
 
 6. Density Chart
 -----------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/density-c.png)
 
 7. Metrics & Assertations
 -------------------------
-
+![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/metric.png)
