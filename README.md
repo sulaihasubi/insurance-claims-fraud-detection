@@ -37,6 +37,12 @@ This dataset collected from Auto Insurance in USA States, contains 1000 rows wit
 <br/>
 ![Alt Text](https://github.com/sulaihasubi/insurance-claims-fraud-detection/blob/main/images/dataset.png)
 
+## 🧮 Algorithm
+Two types of Machine Learning Model built in this project: Logistic Regressiona & Random Forest to compared both result of their accurancy. 
+
+The Results shows that:
+a) Random Forest shows ROC AUC 0.823 while Logistic Regressions shows ROC AUC results 0.820
+
 
 ## 🖥 The Flow
 In DSS, the Flow is the visual representation of how data, recipes, and models work together to move data through an analytical pipeline. The Flow in DSS has an awareness of the relationships and dependencies between datasets in the project.
