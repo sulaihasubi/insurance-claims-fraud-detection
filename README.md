@@ -3,6 +3,17 @@
 [![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
 
+## Table of Contents
+- [About this Project](#about-this-project)
+- [Introduction](#about-this-project)
+- [📖 Problem Statements](#about-this-project)
+- [📊 About the Dataset](#about-this-project)
+- [🧮 Algorithm](#about-this-project)
+- [🖥 The Flow](#about-this-project)
+- [📊 Statistic Card](#about-this-project)
+- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#about-this-project)
+
+
 ## About this Project
 Since Github have limitation of size to support the files upload, you can explore about this project with Dataiku DSS by downloading the file with the link provided as below:
 <br/>
