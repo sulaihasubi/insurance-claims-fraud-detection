@@ -5,13 +5,13 @@
 
 ## Table of Contents
 - [About this Project](#about-this-project)
-- [Introduction](#about-this-project)
-- [📖 Problem Statements](#about-this-project)
-- [📊 About the Dataset](#about-this-project)
-- [🧮 Algorithm](#about-this-project)
-- [🖥 The Flow](#about-this-project)
-- [📊 Statistic Card](#about-this-project)
-- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#about-this-project)
+- [Introduction](#introduction)
+- [📖 Problem Statements](#-problem-statements)
+- [📊 About the Dataset](#-about-the-dataset)
+- [🧮 Algorithm](#-algorithm)
+- [🖥 The Flow](#-the-flow)
+- [📊 Statistic Card](#-statistic-card)
+- [🤖 Create Machine Learning Model (Auto ML) & Analysed the Results - Training Models](#-create-machine-learning-model-auto-ml--analysed-the-results---training-models)
 
 
 ## About this Project
