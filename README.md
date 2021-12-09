@@ -3,6 +3,10 @@
 [![Kaggle](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=20BEFF&label=)](https://www.kaggle.com/)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/sulaihasubi)
 
+<a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection/commits/master">
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/insurance-claims-fraud-detection">
+</a>
+
 ## ✍🏻 Table of Contents
 - [About this Project](#about-this-project)
 - [Introduction](#introduction)
