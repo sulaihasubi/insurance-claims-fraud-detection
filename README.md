@@ -7,6 +7,12 @@
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/insurance-claims-fraud-detection">
 </a>
 
+## :heart: Contributor
+
+<a href="https://github.com/sulaihasubi/insurance-claims-fraud-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sulaihasubi/insurance-claims-fraud-detection" />
+</a>
+
 ## ✍🏻 Table of Contents
 - [About this Project](#about-this-project)
 - [Introduction](#introduction)
